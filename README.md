@@ -1,3 +1,3 @@
 # pages-test
 
-[link](degiblin-milligan.github.io/pages-test)
+[link](https://degiblin-milligan.github.io/pages-test/)
